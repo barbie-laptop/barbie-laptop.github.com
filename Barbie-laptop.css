@@ -1,0 +1,43 @@
+﻿BODY { background-image: url("Barbie-laptop.jpg"); font-family: "Segoe Script", "Segoe Print", 'MV Boli', Gabriola, cursive; }
+
+
+/*...........................................................................................................................................*/
+
+
+H1 { text-align: center; }
+
+
+H1 A, UL A { text-decoration: none; color: black; }
+
+
+A SPAN { letter-spacing: 0.1em; }
+
+
+H1 > SPAN { color: fuchsia; }
+
+
+/*...........................................................................................................................................*/
+
+
+HR + DIV { float: left; max-width: 50%; }
+
+
+UL { list-style-image: url("Barbie-laptop-1.jpg"); }
+
+
+DIV > UL > LI { color: fuchsia; }
+
+
+#Barbie-laptop { background-color: yellow; }
+
+
+/*...........................................................................................................................................*/
+
+
+HR, H2 { display: none; }
+
+
+/*...........................................................................................................................................*/
+
+
+IMG { border-style: none }
