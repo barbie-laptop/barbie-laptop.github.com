@@ -1,0 +1,10 @@
+﻿H2 + DIV { margin-bottom: 0.37em; }
+
+
+H2 + DIV, DIV + DIV { display: inline-block; background-color: white; max-width: 50%; }
+
+
+/*...................................................................................*/
+
+
+IMG { max-width: 32%; }

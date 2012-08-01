@@ -1,0 +1,10 @@
+﻿H2 + DIV { display: inline-block; background-color: white; max-width: 50%; }
+
+
+/*........................................................................*/
+
+
+A:first-child IMG { max-width: 100%; }
+
+
+A + A IMG { max-width: 22.23%; }
