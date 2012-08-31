@@ -1,0 +1,10 @@
+﻿BODY > A IMG { max-width: 17.32%; }
+
+
+/*.........................................................................*/
+
+
+A + DIV { display: inline-block; background-color: white; max-width: 42.8%; }
+
+
+DIV IMG { max-width: 49.43%; }
