@@ -7,16 +7,16 @@ BODY { background-image: url("Barbie-laptop.jpg"); font-family: "Segoe Script", 
 H1 { text-align: center; }
 
 
-H1 A { text-decoration: none; }
+A { text-decoration: none; }
 
 
-H1 A, ADDRESS * UL { color: black; }
+A, LI + LI { color: black; }
 
 
 A SPAN { letter-spacing: 0.1em; }
 
 
-H1 > SPAN, ADDRESS { color: fuchsia; }
+H1 > SPAN, BODY > UL > LI { color: fuchsia; }
 
 
 /*........................................................................................................................................................................*/
